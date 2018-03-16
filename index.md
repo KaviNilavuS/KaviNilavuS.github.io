@@ -61,20 +61,17 @@ Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Boo
 <h1>EDUCATION SUMMARY</h1>
 
 <h3>DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE, PERAMABALUR</h3>
-  Bachelor of Computer Science and Engineering (From 2010 - 2014)
-  
+  Bachelor of Computer Science and Engineering (From 2010 - 2014) 
                           CGPA 7.96
                           
                           
 <h3>ZAMINDAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
   Higher Secondary Certification (HSC from 2008 -2010)
-  
                           CGPA 8.7
                           
                           
 <h3>SENGUNTHAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
   Secondary School Leaving Certificate (SSLC from 2007 - 2008)
-  
                           CGPA 9.6
                           
                           
@@ -86,12 +83,12 @@ Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Boo
 <p>Sex : Female </p>                                           
 <p>Marital Status : Single </p>                                
 <p>Permanent Address: </p>                                                             
-    <p>No 186/13 Swaminathan Nagar, GH Opp, Thuraiyur, </p>                                                                
-    <p>Trichy, Tamilnadu - 621010. </p>
+<p>No 186/13 Swaminathan Nagar, GH Opp, Thuraiyur, </p>                                                                
+<p>Trichy, Tamilnadu - 621010. </p>
 <p>Nationality : Indian </p>
 <p>Present Address: </p>
-    <p>SVR Residency, 9 th cross, 2 nd main, Madiwala, </p>
-    <p>Bangalore, Karnataka – 560068. </p>
+<p>SVR Residency, 9 th cross, 2 nd main, Madiwala, </p>
+<p>Bangalore, Karnataka – 560068. </p>
 
 
 
