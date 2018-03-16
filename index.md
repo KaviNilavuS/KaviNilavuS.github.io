@@ -77,14 +77,20 @@ Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Boo
                           
 <h1>PERSONAL INFORMATION</h1>
 
-<p>Father : Srinivasan P </p>                                  <p>Permanent Address: </p>
-<p>Mother : Kalaiselvi S  </p>                                 <p>No 186/13 Swaminathan Nagar, GH Opp, Thuraiyur, </p>
-<p>Date of Birth : 20 th February 1993  </p>                   <p>Trichy, Tamilnadu - 621010. </p>
-<p>Sex : Female </p>                                           <p>Nationality : Indian Present Address: </p>
-<p>Marital Status : Single </p>                                <p>SVR Residency, 9 th cross, 2 nd main, Madiwala, </p>
-                                                               <p>Bangalore, Karnataka – 560068. </p>
-                                                                
-                                                                
+<p>Father : Srinivasan P </p>                                  
+<p>Mother : Kalaiselvi S  </p>                                 
+<p>Date of Birth : 20 th February 1993  </p>                   
+<p>Sex : Female </p>                                           
+<p>Marital Status : Single </p>                                
+<p>Permanent Address: </p>                                                             
+<p>No 186/13 Swaminathan Nagar, GH Opp, Thuraiyur, </p>                                                                
+<p>Trichy, Tamilnadu - 621010. </p>
+<p>Nationality : Indian Present Address: </p>
+<p>SVR Residency, 9 th cross, 2 nd main, Madiwala, </p>
+<p>Bangalore, Karnataka – 560068. </p>
+
+
+
 I hereby confirm that the above written particulars are true to the best of my knowledge and confidence.
 
 
