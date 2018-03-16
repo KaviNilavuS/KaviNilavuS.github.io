@@ -56,3 +56,37 @@ ZPLY
 Role: Lead UI Developer
 
 Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Bootstrap
+
+
+<h1>EDUCATION SUMMARY</h1>
+
+<h3>DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE, PERAMABALUR</h3>
+  <p>Bachelor of Computer Science and Engineering (From 2010 - 2014)</p>
+                          <h6>CGPA 7.96</h6>
+                          
+                          
+<h3>ZAMINDAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
+  <p>Higher Secondary Certification (HSC from 2008 -2010)</p>
+                          <h6>CGPA 8.7</h6>
+                          
+                          
+<h3>SENGUNTHAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
+  <p>Secondary School Leaving Certificate (SSLC from 2007 - 2008)</p>
+                          <h6>CGPA 9.6</h6>
+                          
+                          
+<h1>PERSONAL INFORMATION</h1>
+
+<p>Father : Srinivasan P </p>                                  <p>Permanent Address: </p>
+<p>Mother : Kalaiselvi S  </p>                                 <p>No 186/13 Swaminathan Nagar, GH Opp, Thuraiyur, </p>
+<p>Date of Birth : 20 th February 1993  </p>                   <p>Trichy, Tamilnadu - 621010. </p>
+<p>Sex : Female </p>                                           <p>Nationality : Indian Present Address: </p>
+<p>Marital Status : Single </p>                                <p>SVR Residency, 9 th cross, 2 nd main, Madiwala, </p>
+                                                               <p>Bangalore, Karnataka – 560068. </p>
+                                                                
+                                                                
+I hereby confirm that the above written particulars are true to the best of my knowledge and confidence.
+
+
+                                                                                      With Faithful,
+                                                                                      Kavinilavu S
