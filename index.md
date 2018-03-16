@@ -1,5 +1,5 @@
-<h1>##Kavinilavu S</h1>
-<h3>###UI / Hybrid Mobile Application Developer</h3>
+<h1>Kavinilavu S</h1>
+<h3>UI / Hybrid Mobile Application Developer</h3>
 <ul>
 <li>Design, development and integration of Home Automation
   Mobile applications</li>
