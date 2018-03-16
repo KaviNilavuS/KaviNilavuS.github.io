@@ -61,17 +61,17 @@ Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Boo
 <h1>EDUCATION SUMMARY</h1>
 
 <h3>DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE, PERAMABALUR</h3>
-  <p>Bachelor of Computer Science and Engineering (From 2010 - 2014)</p>
+  Bachelor of Computer Science and Engineering (From 2010 - 2014)
                           <h6>CGPA 7.96</h6>
                           
                           
 <h3>ZAMINDAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
-  <p>Higher Secondary Certification (HSC from 2008 -2010)</p>
+  Higher Secondary Certification (HSC from 2008 -2010)
                           <h6>CGPA 8.7</h6>
                           
                           
 <h3>SENGUNTHAR HIGHER SECONDARY SCHOOL, THURAIYUR</h3>
-  <p>Secondary School Leaving Certificate (SSLC from 2007 - 2008)</p>
+  Secondary School Leaving Certificate (SSLC from 2007 - 2008)
                           <h6>CGPA 9.6</h6>
                           
                           
@@ -94,5 +94,5 @@ Technologies Used: Apache Cordova, Ionic, Angular JS, JavaScript, HTML, CSS, Boo
 I hereby confirm that the above written particulars are true to the best of my knowledge and confidence.
 
 
-                                                                                      With Faithful,
-                                                                                      Kavinilavu S
+                                                                          With Faithful,
+                                                                          Kavinilavu S
